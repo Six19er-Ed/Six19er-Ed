@@ -1,4 +1,4 @@
-# Hi, I'm Edwin Castillo, RN 👋
+# Hi, I'm Edwin Castillo, RN 🙋
 
 ### Hospice Nurse → FHIR Interoperability Specialist
 
