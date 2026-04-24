@@ -1,10 +1,10 @@
 # Hi, I'm Edwin Castillo, RN 🙋
 
-### Hospice Nurse → FHIR Interoperability Specialist
+### Hospice Nurse → FHIR Interoperability
 
 I'm a Registered Nurse with 10 years of clinical experience across hospice, 
 post-acute care, home health, and maritime medicine — transitioning into 
-FHIR Interoperability Specialist roles on the medical payer side.
+FHIR Interoperability roles on the medical payer side.
 
 I build SMART on FHIR applications and focus on Da Vinci Implementation 
 Guides for payer-provider data exchange.
