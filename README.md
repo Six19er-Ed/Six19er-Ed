@@ -35,11 +35,14 @@ Guides for payer-provider data exchange.
 | [FHIR Patient Management App](https://github.com/Six19er-Ed/fhir-patient-management-app) | Full CRUD against HAPI FHIR R4 server | HAPI FHIR | REST API, Patient, Observation, Encounter |
 | [SMART Patient App — Epic](https://github.com/Six19er-Ed/smart-patient-app-epic) | OAuth2 Standalone Launch, reads Patient, Meds, Labs, Vitals | Epic | SMART on FHIR v2, OAuth2 Authorization Code Flow |
 | [SMART Practitioner App — Cerner](https://github.com/Six19er-Ed/smart-practitioner-app-cerner) | EHR Launch with bidirectional vital sign write-back | Cerner | EHR Launch, POST Observation, LOINC |
+| [SMART Backend App-Epic](https://github.com/Six19er-Ed/smart-backend-app-epic) | JWT auth, Bulk Data Export, NDJSON parsing, abnormal lab alerting | Epic | Backend Services, RS384 JWT, Bulk FHIR, NDJSON, Cron | 
+| [FHIR Facade on Postgres](https://github.com/Six19er-Ed/fhir-facade-on-postgres) | HAPI FHIR server translating FHIR API calls into SQL queries | Postgres | FHIR Facade, HAPI FHIR, IResourceProvider, LOINC, Docker | 
 
 ---
 
 ### 🎯 Target Focus
-- **Da Vinci IGs:** PDex | PAS | CDex | CRD | DTR | DEQM
+- **Da Vinci IGs:** PDex | PAS | CDex | CRD | DTR | DEQM | HAPI FHIR | Java
+- | PostgreSQL | Docker | Node.js | Bulk Data API | JWT/RS384
 - **Roles:** FHIR Interoperability Specialist | Payer-Side | Remote
 - **Certifications in Progress:** HL7 FHIR Foundational | Utilization Review
 
